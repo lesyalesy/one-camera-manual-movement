@@ -48,8 +48,8 @@ class SingleCameraAlignment:
         # Servo control
         self.arduino_port = arduino_port
         self.arduino_conn = None
-        self.current_pan_angle = 90.0  # degrees (0-180, 90 = center)
-        self.current_tilt_angle = 90.0  # degrees (0-180, 90 = center)
+        self.current_pan_angle = 45.0  # degrees (0-180) - start at 45° to match Arduino
+        self.current_tilt_angle = 120.0  # degrees (0-180) - start at 120° to match Arduino
         
         # Target hair color
         self.target_hair_color = 'blue'  # Which hair to align with ('blue' or 'green')
@@ -2178,6 +2178,16 @@ class SingleCameraAlignment:
         
         arduino_connected = self.initialize_arduino()
         
+        # DO NOT automatically center servos - let them stay at their current position
+        # The first button press will move exactly 1 degree from wherever they are
+        if arduino_connected:
+            print("\n📌 Servos will stay at their current position")
+            print(f"   Software tracking initialized: Pan={self.current_pan_angle:.1f}°, Tilt={self.current_tilt_angle:.1f}°")
+            print("   ⚠️  CRITICAL: Press 'y' to SYNC positions BEFORE first movement!")
+            print("      Enter the ACTUAL current positions of your servos")
+            print("      This ensures accurate 1-degree movements")
+            print("      Without syncing, movements will be incorrect!")
+        
         print("\n" + "="*70)
         print("🎯 SINGLE CAMERA ALIGNMENT SYSTEM")
         print("="*70)
@@ -2350,10 +2360,10 @@ class SingleCameraAlignment:
                 else:
                     # In auto mode, 'c' centers servos
                     print("\n🏠 Centering servos...")
-                    self.set_servo_angles(pan_angle=90, tilt_angle=90)
-                    self.current_pan_angle = 90.0
-                    self.current_tilt_angle = 90.0
-                    print("   ✅ Servos centered")
+                    self.set_servo_angles(pan_angle=45, tilt_angle=120)
+                    self.current_pan_angle = 45.0
+                    self.current_tilt_angle = 120.0
+                    print("   ✅ Servos centered: Pan=45°, Tilt=120°")
             elif key == ord('x'):
                 # Reset angle stabilization (clear history buffers)
                 print("\n🔄 Resetting angle stabilization...")
