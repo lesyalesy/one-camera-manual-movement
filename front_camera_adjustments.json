@@ -1,0 +1,46 @@
+{
+  "camera_id": 0,
+  "total_adjustments": 0,
+  "adjustments": [],
+  "final_colors": {
+    "green": {
+      "lower": [
+        53,
+        66,
+        83
+      ],
+      "upper": [
+        100,
+        255,
+        255
+      ],
+      "name": "Green Hair"
+    },
+    "blue": {
+      "lower": [
+        113,
+        70,
+        132
+      ],
+      "upper": [
+        142,
+        236,
+        244
+      ],
+      "name": "Blue Hair"
+    },
+    "yellow": {
+      "lower": [
+        2,
+        32,
+        128
+      ],
+      "upper": [
+        39,
+        255,
+        255
+      ],
+      "name": "Yellow Needle"
+    }
+  }
+}
