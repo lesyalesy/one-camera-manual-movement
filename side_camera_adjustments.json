@@ -1,21 +1,1150 @@
 {
   "camera_id": 1,
-  "total_adjustments": 30,
-  "adjustments": [],
+  "total_adjustments": 46,
+  "adjustments": [
+    {
+      "timestamp": 16.77883505821228,
+      "color": "blue",
+      "old_lower": [
+        96,
+        138,
+        95
+      ],
+      "old_upper": [
+        113,
+        221,
+        255
+      ],
+      "new_lower": [
+        62,
+        138,
+        95
+      ],
+      "new_upper": [
+        113,
+        221,
+        255
+      ]
+    },
+    {
+      "timestamp": 18.694663047790527,
+      "color": "blue",
+      "old_lower": [
+        62,
+        138,
+        95
+      ],
+      "old_upper": [
+        113,
+        221,
+        255
+      ],
+      "new_lower": [
+        62,
+        56,
+        95
+      ],
+      "new_upper": [
+        113,
+        221,
+        255
+      ]
+    },
+    {
+      "timestamp": 19.717474937438965,
+      "color": "blue",
+      "old_lower": [
+        62,
+        56,
+        95
+      ],
+      "old_upper": [
+        113,
+        221,
+        255
+      ],
+      "new_lower": [
+        62,
+        56,
+        51
+      ],
+      "new_upper": [
+        113,
+        221,
+        255
+      ]
+    },
+    {
+      "timestamp": 20.70787787437439,
+      "color": "blue",
+      "old_lower": [
+        62,
+        56,
+        51
+      ],
+      "old_upper": [
+        113,
+        221,
+        255
+      ],
+      "new_lower": [
+        62,
+        56,
+        51
+      ],
+      "new_upper": [
+        32,
+        221,
+        255
+      ]
+    },
+    {
+      "timestamp": 21.795423984527588,
+      "color": "blue",
+      "old_lower": [
+        62,
+        56,
+        51
+      ],
+      "old_upper": [
+        32,
+        221,
+        255
+      ],
+      "new_lower": [
+        17,
+        56,
+        51
+      ],
+      "new_upper": [
+        32,
+        221,
+        255
+      ]
+    },
+    {
+      "timestamp": 23.08382797241211,
+      "color": "blue",
+      "old_lower": [
+        17,
+        56,
+        51
+      ],
+      "old_upper": [
+        32,
+        221,
+        255
+      ],
+      "new_lower": [
+        4,
+        56,
+        51
+      ],
+      "new_upper": [
+        32,
+        221,
+        255
+      ]
+    },
+    {
+      "timestamp": 23.70995306968689,
+      "color": "blue",
+      "old_lower": [
+        4,
+        56,
+        51
+      ],
+      "old_upper": [
+        32,
+        221,
+        255
+      ],
+      "new_lower": [
+        4,
+        12,
+        51
+      ],
+      "new_upper": [
+        32,
+        221,
+        255
+      ]
+    },
+    {
+      "timestamp": 25.066632986068726,
+      "color": "blue",
+      "old_lower": [
+        4,
+        12,
+        51
+      ],
+      "old_upper": [
+        32,
+        221,
+        255
+      ],
+      "new_lower": [
+        4,
+        12,
+        4
+      ],
+      "new_upper": [
+        32,
+        221,
+        255
+      ]
+    },
+    {
+      "timestamp": 26.547927141189575,
+      "color": "blue",
+      "old_lower": [
+        4,
+        12,
+        4
+      ],
+      "old_upper": [
+        32,
+        221,
+        255
+      ],
+      "new_lower": [
+        4,
+        12,
+        4
+      ],
+      "new_upper": [
+        6,
+        221,
+        255
+      ]
+    },
+    {
+      "timestamp": 27.407156944274902,
+      "color": "blue",
+      "old_lower": [
+        4,
+        12,
+        4
+      ],
+      "old_upper": [
+        6,
+        221,
+        255
+      ],
+      "new_lower": [
+        4,
+        12,
+        4
+      ],
+      "new_upper": [
+        115,
+        221,
+        255
+      ]
+    },
+    {
+      "timestamp": 29.321199893951416,
+      "color": "blue",
+      "old_lower": [
+        4,
+        12,
+        4
+      ],
+      "old_upper": [
+        115,
+        221,
+        255
+      ],
+      "new_lower": [
+        4,
+        12,
+        67
+      ],
+      "new_upper": [
+        115,
+        221,
+        255
+      ]
+    },
+    {
+      "timestamp": 30.70684289932251,
+      "color": "blue",
+      "old_lower": [
+        4,
+        12,
+        67
+      ],
+      "old_upper": [
+        115,
+        221,
+        255
+      ],
+      "new_lower": [
+        4,
+        51,
+        67
+      ],
+      "new_upper": [
+        115,
+        221,
+        255
+      ]
+    },
+    {
+      "timestamp": 31.960365056991577,
+      "color": "blue",
+      "old_lower": [
+        4,
+        51,
+        67
+      ],
+      "old_upper": [
+        115,
+        221,
+        255
+      ],
+      "new_lower": [
+        24,
+        51,
+        67
+      ],
+      "new_upper": [
+        115,
+        221,
+        255
+      ]
+    },
+    {
+      "timestamp": 32.91732096672058,
+      "color": "blue",
+      "old_lower": [
+        24,
+        51,
+        67
+      ],
+      "old_upper": [
+        115,
+        221,
+        255
+      ],
+      "new_lower": [
+        52,
+        51,
+        67
+      ],
+      "new_upper": [
+        115,
+        221,
+        255
+      ]
+    },
+    {
+      "timestamp": 34.205557107925415,
+      "color": "blue",
+      "old_lower": [
+        52,
+        51,
+        67
+      ],
+      "old_upper": [
+        115,
+        221,
+        255
+      ],
+      "new_lower": [
+        65,
+        51,
+        67
+      ],
+      "new_upper": [
+        115,
+        221,
+        255
+      ]
+    },
+    {
+      "timestamp": 36.21714210510254,
+      "color": "blue",
+      "old_lower": [
+        65,
+        51,
+        67
+      ],
+      "old_upper": [
+        115,
+        221,
+        255
+      ],
+      "new_lower": [
+        53,
+        51,
+        67
+      ],
+      "new_upper": [
+        115,
+        221,
+        255
+      ]
+    },
+    {
+      "timestamp": 37.669997215270996,
+      "color": "blue",
+      "old_lower": [
+        53,
+        51,
+        67
+      ],
+      "old_upper": [
+        115,
+        221,
+        255
+      ],
+      "new_lower": [
+        53,
+        126,
+        67
+      ],
+      "new_upper": [
+        115,
+        221,
+        255
+      ]
+    },
+    {
+      "timestamp": 39.45095205307007,
+      "color": "blue",
+      "old_lower": [
+        53,
+        126,
+        67
+      ],
+      "old_upper": [
+        115,
+        221,
+        255
+      ],
+      "new_lower": [
+        53,
+        126,
+        115
+      ],
+      "new_upper": [
+        115,
+        221,
+        255
+      ]
+    },
+    {
+      "timestamp": 40.40800380706787,
+      "color": "blue",
+      "old_lower": [
+        53,
+        126,
+        115
+      ],
+      "old_upper": [
+        115,
+        221,
+        255
+      ],
+      "new_lower": [
+        53,
+        126,
+        146
+      ],
+      "new_upper": [
+        115,
+        221,
+        255
+      ]
+    },
+    {
+      "timestamp": 41.69532084465027,
+      "color": "blue",
+      "old_lower": [
+        53,
+        126,
+        146
+      ],
+      "old_upper": [
+        115,
+        221,
+        255
+      ],
+      "new_lower": [
+        53,
+        126,
+        118
+      ],
+      "new_upper": [
+        115,
+        221,
+        255
+      ]
+    },
+    {
+      "timestamp": 42.48721098899841,
+      "color": "blue",
+      "old_lower": [
+        53,
+        126,
+        118
+      ],
+      "old_upper": [
+        115,
+        221,
+        255
+      ],
+      "new_lower": [
+        53,
+        126,
+        92
+      ],
+      "new_upper": [
+        115,
+        221,
+        255
+      ]
+    },
+    {
+      "timestamp": 43.70866107940674,
+      "color": "blue",
+      "old_lower": [
+        53,
+        126,
+        92
+      ],
+      "old_upper": [
+        115,
+        221,
+        255
+      ],
+      "new_lower": [
+        53,
+        57,
+        92
+      ],
+      "new_upper": [
+        115,
+        221,
+        255
+      ]
+    },
+    {
+      "timestamp": 45.65576195716858,
+      "color": "blue",
+      "old_lower": [
+        53,
+        57,
+        92
+      ],
+      "old_upper": [
+        115,
+        221,
+        255
+      ],
+      "new_lower": [
+        53,
+        69,
+        92
+      ],
+      "new_upper": [
+        115,
+        221,
+        255
+      ]
+    },
+    {
+      "timestamp": 46.875394105911255,
+      "color": "blue",
+      "old_lower": [
+        53,
+        69,
+        92
+      ],
+      "old_upper": [
+        115,
+        221,
+        255
+      ],
+      "new_lower": [
+        0,
+        69,
+        92
+      ],
+      "new_upper": [
+        115,
+        221,
+        255
+      ]
+    },
+    {
+      "timestamp": 47.76353096961975,
+      "color": "blue",
+      "old_lower": [
+        0,
+        69,
+        92
+      ],
+      "old_upper": [
+        115,
+        221,
+        255
+      ],
+      "new_lower": [
+        20,
+        69,
+        92
+      ],
+      "new_upper": [
+        115,
+        221,
+        255
+      ]
+    },
+    {
+      "timestamp": 48.823349952697754,
+      "color": "blue",
+      "old_lower": [
+        20,
+        69,
+        92
+      ],
+      "old_upper": [
+        115,
+        221,
+        255
+      ],
+      "new_lower": [
+        36,
+        69,
+        92
+      ],
+      "new_upper": [
+        115,
+        221,
+        255
+      ]
+    },
+    {
+      "timestamp": 50.142871141433716,
+      "color": "green",
+      "old_lower": [
+        41,
+        99,
+        113
+      ],
+      "old_upper": [
+        96,
+        245,
+        255
+      ],
+      "new_lower": [
+        41,
+        99,
+        113
+      ],
+      "new_upper": [
+        96,
+        245,
+        65
+      ]
+    },
+    {
+      "timestamp": 51.92461895942688,
+      "color": "blue",
+      "old_lower": [
+        36,
+        69,
+        92
+      ],
+      "old_upper": [
+        115,
+        221,
+        255
+      ],
+      "new_lower": [
+        36,
+        69,
+        92
+      ],
+      "new_upper": [
+        139,
+        221,
+        255
+      ]
+    },
+    {
+      "timestamp": 97.56339406967163,
+      "color": "yellow",
+      "old_lower": [
+        20,
+        92,
+        144
+      ],
+      "old_upper": [
+        89,
+        255,
+        255
+      ],
+      "new_lower": [
+        58,
+        92,
+        144
+      ],
+      "new_upper": [
+        89,
+        255,
+        255
+      ]
+    },
+    {
+      "timestamp": 98.32222104072571,
+      "color": "yellow",
+      "old_lower": [
+        58,
+        92,
+        144
+      ],
+      "old_upper": [
+        89,
+        255,
+        255
+      ],
+      "new_lower": [
+        20,
+        92,
+        144
+      ],
+      "new_upper": [
+        89,
+        255,
+        255
+      ]
+    },
+    {
+      "timestamp": 99.97304821014404,
+      "color": "yellow",
+      "old_lower": [
+        20,
+        92,
+        144
+      ],
+      "old_upper": [
+        89,
+        255,
+        255
+      ],
+      "new_lower": [
+        25,
+        92,
+        144
+      ],
+      "new_upper": [
+        89,
+        255,
+        255
+      ]
+    },
+    {
+      "timestamp": 100.79409217834473,
+      "color": "yellow",
+      "old_lower": [
+        25,
+        92,
+        144
+      ],
+      "old_upper": [
+        89,
+        255,
+        255
+      ],
+      "new_lower": [
+        17,
+        92,
+        144
+      ],
+      "new_upper": [
+        89,
+        255,
+        255
+      ]
+    },
+    {
+      "timestamp": 100.95962190628052,
+      "color": "yellow",
+      "old_lower": [
+        17,
+        92,
+        144
+      ],
+      "old_upper": [
+        89,
+        255,
+        255
+      ],
+      "new_lower": [
+        11,
+        92,
+        144
+      ],
+      "new_upper": [
+        89,
+        255,
+        255
+      ]
+    },
+    {
+      "timestamp": 102.71083498001099,
+      "color": "yellow",
+      "old_lower": [
+        11,
+        92,
+        144
+      ],
+      "old_upper": [
+        89,
+        255,
+        255
+      ],
+      "new_lower": [
+        3,
+        92,
+        144
+      ],
+      "new_upper": [
+        89,
+        255,
+        255
+      ]
+    },
+    {
+      "timestamp": 104.50201082229614,
+      "color": "yellow",
+      "old_lower": [
+        3,
+        92,
+        144
+      ],
+      "old_upper": [
+        89,
+        255,
+        255
+      ],
+      "new_lower": [
+        8,
+        92,
+        144
+      ],
+      "new_upper": [
+        89,
+        255,
+        255
+      ]
+    },
+    {
+      "timestamp": 106.57324695587158,
+      "color": "yellow",
+      "old_lower": [
+        8,
+        92,
+        144
+      ],
+      "old_upper": [
+        89,
+        255,
+        255
+      ],
+      "new_lower": [
+        8,
+        111,
+        144
+      ],
+      "new_upper": [
+        89,
+        255,
+        255
+      ]
+    },
+    {
+      "timestamp": 107.79022002220154,
+      "color": "yellow",
+      "old_lower": [
+        8,
+        111,
+        144
+      ],
+      "old_upper": [
+        89,
+        255,
+        255
+      ],
+      "new_lower": [
+        8,
+        64,
+        144
+      ],
+      "new_upper": [
+        89,
+        255,
+        255
+      ]
+    },
+    {
+      "timestamp": 108.81672191619873,
+      "color": "yellow",
+      "old_lower": [
+        8,
+        64,
+        144
+      ],
+      "old_upper": [
+        89,
+        255,
+        255
+      ],
+      "new_lower": [
+        8,
+        35,
+        144
+      ],
+      "new_upper": [
+        89,
+        255,
+        255
+      ]
+    },
+    {
+      "timestamp": 109.77353405952454,
+      "color": "yellow",
+      "old_lower": [
+        8,
+        35,
+        144
+      ],
+      "old_upper": [
+        89,
+        255,
+        255
+      ],
+      "new_lower": [
+        8,
+        24,
+        144
+      ],
+      "new_upper": [
+        89,
+        255,
+        255
+      ]
+    },
+    {
+      "timestamp": 110.63293695449829,
+      "color": "yellow",
+      "old_lower": [
+        8,
+        24,
+        144
+      ],
+      "old_upper": [
+        89,
+        255,
+        255
+      ],
+      "new_lower": [
+        8,
+        82,
+        144
+      ],
+      "new_upper": [
+        89,
+        255,
+        255
+      ]
+    },
+    {
+      "timestamp": 111.58892393112183,
+      "color": "yellow",
+      "old_lower": [
+        8,
+        82,
+        144
+      ],
+      "old_upper": [
+        89,
+        255,
+        255
+      ],
+      "new_lower": [
+        8,
+        82,
+        98
+      ],
+      "new_upper": [
+        89,
+        255,
+        255
+      ]
+    },
+    {
+      "timestamp": 114.88841605186462,
+      "color": "yellow",
+      "old_lower": [
+        8,
+        82,
+        98
+      ],
+      "old_upper": [
+        89,
+        255,
+        255
+      ],
+      "new_lower": [
+        8,
+        82,
+        83
+      ],
+      "new_upper": [
+        89,
+        255,
+        255
+      ]
+    },
+    {
+      "timestamp": 115.64796495437622,
+      "color": "yellow",
+      "old_lower": [
+        8,
+        82,
+        83
+      ],
+      "old_upper": [
+        89,
+        255,
+        255
+      ],
+      "new_lower": [
+        8,
+        82,
+        108
+      ],
+      "new_upper": [
+        89,
+        255,
+        255
+      ]
+    },
+    {
+      "timestamp": 116.37605404853821,
+      "color": "yellow",
+      "old_lower": [
+        8,
+        82,
+        108
+      ],
+      "old_upper": [
+        89,
+        255,
+        255
+      ],
+      "new_lower": [
+        8,
+        82,
+        82
+      ],
+      "new_upper": [
+        89,
+        255,
+        255
+      ]
+    },
+    {
+      "timestamp": 117.39625978469849,
+      "color": "yellow",
+      "old_lower": [
+        8,
+        82,
+        82
+      ],
+      "old_upper": [
+        89,
+        255,
+        255
+      ],
+      "new_lower": [
+        8,
+        48,
+        82
+      ],
+      "new_upper": [
+        89,
+        255,
+        255
+      ]
+    },
+    {
+      "timestamp": 118.2552330493927,
+      "color": "yellow",
+      "old_lower": [
+        8,
+        48,
+        82
+      ],
+      "old_upper": [
+        89,
+        255,
+        255
+      ],
+      "new_lower": [
+        8,
+        67,
+        82
+      ],
+      "new_upper": [
+        89,
+        255,
+        255
+      ]
+    }
+  ],
   "final_colors": {
     "green": {
-      "lower": [53, 36, 83],
-      "upper": [100, 255, 255],
+      "lower": [
+        41,
+        99,
+        113
+      ],
+      "upper": [
+        96,
+        245,
+        65
+      ],
       "name": "Green Hair"
     },
     "blue": {
-      "lower": [87, 89, 116],
-      "upper": [147, 221, 255],
+      "lower": [
+        36,
+        69,
+        92
+      ],
+      "upper": [
+        139,
+        221,
+        255
+      ],
       "name": "Blue Hair"
     },
     "yellow": {
-      "lower": [15, 59, 144],
-      "upper": [89, 255, 255],
+      "lower": [
+        8,
+        67,
+        82
+      ],
+      "upper": [
+        89,
+        255,
+        255
+      ],
       "name": "Yellow Needle"
     }
   }

@@ -23,12 +23,12 @@ class SideCameraSliderViewer:
                 'name': 'Green Hair'
             },
             'blue': {
-                'lower': [32, 96, 148], 
-                'upper': [147, 221, 255], 
+                'lower': [96, 138, 95], 
+                'upper': [113, 221, 255], 
                 'name': 'Blue Hair'
             },
             'yellow': {
-                'lower': [15, 59, 144], 
+                'lower': [20, 92, 144], 
                 'upper': [89, 255, 255], 
                 'name': 'Yellow Needle'
             }
